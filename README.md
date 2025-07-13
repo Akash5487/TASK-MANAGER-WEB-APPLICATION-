@@ -67,8 +67,7 @@ npm install
 npm start
 Running the Application
 
-Ensure the backend server is running on http://localhost:5000.
-Open http://localhost:3000 in your browser to access the frontend.
+backend server is running on http://localhost:5000.
 Use the UI to add, edit, and delete tasks.
 
 **API Endpoints**
